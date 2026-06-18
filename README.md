@@ -1,39 +1,50 @@
-# Hi 👋, I'm Sergo Abrahamyan
+# Hello There 👋
 
-### Frontend Developer | Building beautiful web experiences
-
----
-
-### 🚀 About Me
-
-- 🔭 I'm currently working on exciting frontend projects
-- 🌱 I'm constantly learning and improving my skills
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
-- 📫 How to reach me: **abrahamyan536@gmail.com**
+I am a Frontend Developer
+Working everyday to be better
 
 ---
 
-### 🛠️ Tech Stack
+## About Me
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sergo-Abrahamyan&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sergo-Abrahamyan&theme=tokyonight)
+💡 I like to build beautiful, fast and user-friendly websites
+⚛️ I'm currently working with React.js and modern frontend tools
+🌱 I'm constantly learning new technologies and improving my skills
+🏀 In my free time, I enjoy sports and hanging out with friends
+💬 Feel free to reach out to me for some interesting discussion
+📧 You can shoot me an email at abrahamyan536@gmail.com — I'll try to respond as soon as I can
 
 ---
 
-### 📫 Connect with Me
+## 🛠️ Technologies & Tools
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrahamyan536@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sergo-Abrahamyan)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,tailwind,vscode,figma,git,github,nodejs,sass)](https://skillicons.dev)
+
+---
+
+## 🚀 What I Can Build
+
+- 🌤️ **Weather Apps** — real-time weather dashboards with forecast
+- 🛒 **E-Commerce UIs** — product pages, shopping carts, checkout flows
+- 🍕 **Restaurant Websites** — menus, reservations, landing pages
+- 📋 **Task Management Apps** — todo lists, kanban boards, productivity tools
+- 🎬 **Movie & Media Apps** — browsing, filtering, watchlists
+- 🖼️ **Portfolio Websites** — personal sites, showcases, CV pages
+- 📊 **Dashboards** — data visualization, admin panels, analytics UIs
+
+---
+
+## 📊 GitHub Stats
+
+![Sergo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sergo-Abrahamyan&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergo-Abrahamyan&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sergo-Abrahamyan&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Connect with Me
+
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:abrahamyan536@gmail.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Sergo-Abrahamyan)
