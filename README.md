@@ -46,5 +46,6 @@ Working everyday to be better
 
 ## 📫 Connect with Me
 
+[![Telegram](https://skillicons.dev/icons?i=telegram)](https://t.me/sergo_webdev)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:abrahamyan536@gmail.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Sergo-Abrahamyan)
